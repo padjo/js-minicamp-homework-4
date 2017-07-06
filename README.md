@@ -3,17 +3,17 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Callback Functions
-	* Closure
-	* arguments array
-	* recursion
-	* prototype
-	* constructors
+
+	* Callback Functions : these are functions that are returned from functions
+	* Closure  : A closure is a function that has knowledge of the variables of the function where it was defined
+	* arguments array : this is a list of arguments that are passed to a function.
+	* recursion : A way of looping through a collection by repeatedly calling the same function with different arguemtns until the end case is met, the return result is then calculated and returned
+	* prototype : A way of tracking an objects methods/variables whether they are inherited or defined in the class
+	* constructors : A template for creating class objects
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
